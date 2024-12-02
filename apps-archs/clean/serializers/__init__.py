@@ -1,0 +1,1 @@
+# Define los serializadores, encargados de convertir las entidades en un formato adecuado para ser expuesto a través de APIs. Los serializadores son llamados por la capa de Vistas (views) para validar y transformar los datos.

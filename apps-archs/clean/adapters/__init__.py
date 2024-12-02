@@ -1,0 +1,1 @@
+# Proporciona adaptadores para interactuar con sistemas externos, desacoplando la lógica de negocio de detalles de implementación. Esta capa es utilizada por los Casos de Uso (use_cases) para interactuar con APIs externas o servicios.

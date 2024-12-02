@@ -1,0 +1,1 @@
+# Esta capa define las entidades fundamentales del dominio, representando la lógica de negocio pura, sin dependencias externas. Es utilizada por la capa de Casos de Uso (use_cases) para manipular la lógica de negocio.

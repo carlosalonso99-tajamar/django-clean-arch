@@ -1,0 +1,2 @@
+1.- añadir al settings.py a apps tu apps
+2.- Configurar la rutas en la app principal para que apunten a la nueva app
