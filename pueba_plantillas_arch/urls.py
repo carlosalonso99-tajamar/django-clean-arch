@@ -25,3 +25,4 @@ urlpatterns = [
 
 #TODO: Ver si los objetos en los que deriva un metodo hay que crearlos en el init, por parametro o en el metodo
 #TODO: Añadir logging
+#TODO:Pensar donde irua celerity en la arch 
