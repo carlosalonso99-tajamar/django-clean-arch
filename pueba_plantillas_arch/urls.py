@@ -24,5 +24,9 @@ urlpatterns = [
 
 
 #TODO: Ver si los objetos en los que deriva un metodo hay que crearlos en el init, por parametro o en el metodo
+    #TODO:Solucion a lo anteriro con inversor de dependencias
 #TODO: Añadir logging
-#TODO:Pensar donde irua celerity en la arch 
+#TODO:Pensar donde iria celerity en la arch
+    #TODO: Solucion: usecase usara un adater
+
+#
