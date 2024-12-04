@@ -1,0 +1,1 @@
+# Contiene la lógica de los casos de uso. Orquesta cómo se manipulan las entidades para cumplir con los requisitos de negocio. Llama a la capa de Core (core) para ejecutar la lógica y se invoca desde la capa de Vistas (views).
